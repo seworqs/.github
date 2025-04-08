@@ -10,9 +10,10 @@ SEworqs creates robust, well-documented tools that help developers move faster w
 
 ## Released PHP modules
 
-| Module                                              | Description                           | Version                                                                                                                                     |
-|-----------------------------------------------------|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| [seworqs/semver](https://github.com/seworqs/semver) | Semantic versioning helpers and tools | [![Latest Version](https://img.shields.io/packagist/v/seworqs/semver.svg?style=flat-square)](https://packagist.org/packages/seworqs/semver) |
+| Module                                                              | Description                           | Version                                                                                                                                                     |
+|---------------------------------------------------------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [seworqs/commons-string](https://github.com/seworqs/commons-string) | String utilities and helpers          | [![Latest Version](https://img.shields.io/packagist/v/seworqs/commons-string.svg?style=flat-square)](https://packagist.org/packages/seworqs/commons-string) |
+| [seworqs/semver](https://github.com/seworqs/semver)                 | Semantic versioning helpers and tools | [![Latest Version](https://img.shields.io/packagist/v/seworqs/semver.svg?style=flat-square)](https://packagist.org/packages/seworqs/semver)                 |
 
 ### Roadmap
 
@@ -20,7 +21,6 @@ SEworqs creates robust, well-documented tools that help developers move faster w
 
 | Module                 | Description                  |
 |------------------------|------------------------------|
-| seworqs/commons-string | String utilities and helpers |
 | seworqs/json-editor    | Edit your Json files easily  |
 
 #### Modules in development
@@ -29,7 +29,7 @@ SEworqs creates robust, well-documented tools that help developers move faster w
 |----------------------|--------------|
 | seworqs/commons-math | Math helpers |
 
-#### PLanned / Backlog modules
+#### Planned / Backlog modules
 
 | Module                 | Description                                       |
 |------------------------|---------------------------------------------------|
