@@ -15,7 +15,7 @@ SEworqs creates robust, well-documented tools that help developers move faster w
 | [seworqs/commons-string](https://github.com/seworqs/commons-string)   | String utilities and helpers          | [![Latest Version](https://img.shields.io/packagist/v/seworqs/commons-string.svg?style=flat-square)](https://packagist.org/packages/seworqs/commons-string)    |
 | [seworqs/semver](https://github.com/seworqs/semver)                   | Semantic versioning helpers and tools | [![Latest Version](https://img.shields.io/packagist/v/seworqs/semver.svg?style=flat-square)](https://packagist.org/packages/seworqs/semver)                    |
 | [seworqs/json-editor](https://github.com/seworqs/json-editor)         | Edit your Json files easily           | [![Latest Version](https://img.shields.io/packagist/v/seworqs/json-editor.svg?style=flat-square)](https://packagist.org/packages/seworqs/json-editor)          |
-| [seworqs/composer-editor](https://github.com/seworqs/composer-editor) | Edit your Composer Json files easily  | [![Latest Version](https://img.shields.io/packagist/v/seworqs/comnposer-editor.svg?style=flat-square)](https://packagist.org/packages/seworqs/composer-editor) |
+| [seworqs/composer-editor](https://github.com/seworqs/composer-editor) | Edit your Composer Json files easily  | [![Latest Version](https://img.shields.io/packagist/v/seworqs/composer-editor.svg?style=flat-square)](https://packagist.org/packages/seworqs/composer-editor) |
 
 ### Roadmap
 
