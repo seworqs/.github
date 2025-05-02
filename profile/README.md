@@ -22,9 +22,9 @@ SEworqs creates robust, well-documented tools that help developers move faster w
 
 #### Modules to be released soon
 
-| Module               | Description  |
-|----------------------|--------------|
-| seworqs/commons-math | Math helpers | 
+| Module                       | Description         |
+|------------------------------|---------------------|
+| seworqs/commons-calculations | Calculation helpers | 
 
 #### Modules in development
 
